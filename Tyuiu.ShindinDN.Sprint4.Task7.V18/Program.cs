@@ -34,8 +34,7 @@ namespace Tyuiu.ShindinDN.Sprint4.Task7.V18
             {
                 for (int j = 0; j < m; j++)
                 {
-                    Console.Write($"{value[index]}\t");
-                    index++;
+                    Console.Write($"{value[i * m + j]}\t");
                 }
                 Console.WriteLine();
             }
