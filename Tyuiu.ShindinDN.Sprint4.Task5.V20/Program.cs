@@ -11,7 +11,7 @@ namespace Tyuiu.ShindinDN.Sprint4.Task5.V20
             Console.Title = "Спринт #4 | Выполнил: Шиндин Д. Н. | ИСТНб-24-1";
             Console.WriteLine("***************************************************************************");
             Console.WriteLine("* Спринт #4                                                               *");
-            Console.WriteLine("* Тема: Одномерные массивы. (генератор случайных чисел)                   *");
+            Console.WriteLine("* Тема: Двумерные массивы. (генератор случайных чисел)                    *");
             Console.WriteLine("* Задание #5                                                              *");
             Console.WriteLine("* Вариант #20                                                             *");
             Console.WriteLine("* Выполнил: Шиндин Денис Николаевич | ИСТНб-24-1                          *");
